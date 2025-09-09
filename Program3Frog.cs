@@ -19,7 +19,7 @@ namespace Turtle22
             GreenFrog f5 = new GreenFrog(1, "f5"); 
             GreenFrog f6 = new GreenFrog(2, "f6");
 
-
+            Console.WriteLine(  "fsdfsd");
         }
     }
 }
