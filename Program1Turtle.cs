@@ -20,15 +20,12 @@ namespace Turtle22
             t1.SetDelay(200);
             t1.TailDown();
 
-            t1.MoveForward(50);
-            t1.TurnRight(90);
-            t1.MoveForward(100);
-            t1.TurnLeft(90);
-
-            t1.MoveForward(50);
-            t1.TurnRight(90);
-            t1.MoveForward(100);
-            t1.TurnLeft(90);
-        } 
+            t1.TurnRight(60);
+            t1.MoveForward(500);
+            t1.TurnRight(120);
+            t1.MoveForward(500);
+            t1.TurnRight(120);
+            t1.MoveForward(500);
+        }
     }
 }
